@@ -5,6 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "Hello World!"
-      - name: my-step
-        run: echo "Bye World!"
+        run: make say-hello
