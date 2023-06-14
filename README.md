@@ -1,4 +1,3 @@
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+[![hello-world](https://github.com/Vit90Fomin/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Vit90Fomin/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
 <br/> 
 hexlet-my-first-workflow
